@@ -1,0 +1,83 @@
+# Default configuration for Ruby projects
+require:
+  - rubocop-rails  # Requires rubocop-rails gem to be added to your Gemfile
+  - rubocop-rspec  # Requires rubocop-rspec gem to be added to your Gemfile
+
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 3.2
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+    - 'bin/**/*'
+    - 'vendor/**/*'
+    - 'tmp/**/*'
+
+# Layout
+Layout/LineLength:
+  Max: 120
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
+Layout/FirstArrayElementIndentation:
+  EnforcedStyle: consistent
+
+# Style
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: true
+  EnforcedStyle: always
+
+Style/StringLiterals:
+  EnforcedStyle: single_quotes
+
+Style/SymbolArray:
+  EnforcedStyle: brackets
+
+Style/TrailingCommaInArrayLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+
+# Metrics
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    - '*.gemspec'
+
+Metrics/ClassLength:
+  Max: 150
+
+Metrics/MethodLength:
+  Max: 20
+
+Metrics/AbcSize:
+  Max: 20
+
+# Naming
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
+
+# Bundler
+Bundler/OrderedGems:
+  Enabled: true
+
+# Rails specific configurations
+Rails/HasAndBelongsToMany:
+  Enabled: false
+
+# RSpec configurations
+RSpec/DescribeClass:
+  Enabled: true
+
+RSpec/ExampleLength:
+  Max: 10
+
+RSpec/MultipleExpectations:
+  Max: 5

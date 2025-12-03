@@ -1,0 +1,20 @@
+source 'https://rubygems.org'
+
+gem 'faker'
+gem 'fiddle'
+gem 'httparty'
+gem 'mechanize'
+gem 'mongo'
+gem 'nokogiri'
+gem 'pony'
+gem 'rake'
+gem 'rubocop', require: false
+gem 'rubocop-rails'
+gem 'rubocop-rspec'
+gem 'rubyzip'
+gem 'selenium-webdriver'
+gem 'sidekiq'
+gem 'webmock'
+gem 'net-smtp'
+gem 'net-protocol'
+gem "sqlite3"

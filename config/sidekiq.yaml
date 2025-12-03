@@ -1,0 +1,4 @@
+:concurrency: 5
+:queues:
+  - [archive_sending, 1]
+  - [default, 2]

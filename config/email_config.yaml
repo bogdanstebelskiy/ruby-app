@@ -1,0 +1,6 @@
+development:
+  smtp_server: smtp.gmail.com
+  smtp_port: 465
+  smtp_user: kripatura1032@gmail.com
+  smtp_password: rcrq bqjv lbqo snyj
+  from_address: kripatura1032@gmail.com

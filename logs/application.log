@@ -1,0 +1,1115 @@
+I, [2025-11-30T20:22:00.487356 #2396]  INFO -- : Initialized ItemCollection
+I, [2025-11-30T20:22:00.488199 #2396]  INFO -- : Directory created at: output
+I, [2025-11-30T20:22:00.490137 #2396]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-11-30T20:22:00.490977 #2396]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-11-30T20:22:00.494222 #2396]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-11-30T20:22:00.495129 #2396]  INFO -- : Running website parser...
+I, [2025-11-30T20:22:02.205989 #2396]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-11-30T20:22:02.206859 #2396]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:22:02.207019 #2396]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:22:02.620817 #2396]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-11-30T20:22:02.622320 #2396]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:22:02.622592 #2396]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:22:02.636022 #2396]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-11-30T20:22:02.637468 #2396]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:22:02.637751 #2396]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:22:02.652829 #2396]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-11-30T20:22:02.653861 #2396]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:22:02.654188 #2396]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:22:02.670666 #2396]  INFO -- : Processed file: olio.jpg
+I, [2025-11-30T20:22:02.671960 #2396]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:22:02.672285 #2396]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:22:02.684242 #2396]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-11-30T20:22:02.685855 #2396]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:22:02.685988 #2396]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:22:02.686206 #2396]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-11-30T20:22:02.687246 #2396]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:22:02.687433 #2396]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:22:02.700852 #2396]  INFO -- : Processed file: soumission.jpg
+I, [2025-11-30T20:22:02.702172 #2396]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:22:02.702524 #2396]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:22:02.715771 #2396]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-11-30T20:22:02.716758 #2396]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:22:02.716876 #2396]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:22:02.784070 #2396]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-11-30T20:22:02.785430 #2396]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:22:02.785692 #2396]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:22:02.795396 #2396]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-11-30T20:22:02.796230 #2396]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:22:02.796299 #2396]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:22:02.797410 #2396]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-11-30T20:22:02.799226 #2396]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:22:02.799394 #2396]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:22:02.810920 #2396]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-11-30T20:22:02.811602 #2396]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-11-30T20:22:02.812289 #2396]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:22:02.812522 #2396]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:22:02.814129 #2396]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:22:02.814256 #2396]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:22:02.827837 #2396]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-11-30T20:22:02.828403 #2396]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-11-30T20:22:02.829219 #2396]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-11-30T20:22:02.830988 #2396]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:22:02.831384 #2396]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:22:02.831331 #2396]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:22:02.832063 #2396]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:22:02.832212 #2396]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:22:02.832388 #2396]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:22:02.842869 #2396]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-11-30T20:22:02.843337 #2396]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-11-30T20:22:02.844470 #2396]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:22:02.844553 #2396]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:22:02.844676 #2396]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:22:02.844922 #2396]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:22:02.847343 #2396]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-11-30T20:22:02.848417 #2396]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:22:02.848518 #2396]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:22:02.848588 #2396]  INFO -- : Website parsing completed successfully.
+I, [2025-11-30T20:22:02.848759 #2396]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:22:02.850630 #2396]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:22:02.850691 #2396]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:22:02.851513 #2396]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:22:02.851743 #2396]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:22:02.864312 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:22:02.865332 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:22:02.866222 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:22:02.866913 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:22:02.868008 #2396]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:22:02.868599 #2396]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:22:02.869342 #2396]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:22:02.869989 #2396]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:22:02.870662 #2396]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:22:02.871398 #2396]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:22:02.872454 #2396]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:22:02.872905 #2396]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:22:02.873354 #2396]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:22:02.874272 #2396]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:22:02.874738 #2396]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:22:02.875257 #2396]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:22:02.876005 #2396]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:22:02.876543 #2396]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:22:02.877042 #2396]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:22:02.877638 #2396]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:22:02.877880 #2396]  INFO -- : Method run_save_to_txt not found
+I, [2025-11-30T20:22:02.879321 #2396]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:22:02.880672 #2396]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:22:02.880947 #2396]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:22:02.881646 #2396]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:22:02.882237 #2396]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:22:02.883812 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:22:02.884266 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:22:02.889007 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:22:02.889755 #2396]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:22:02.890404 #2396]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:22:02.890851 #2396]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:22:02.891427 #2396]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:22:02.891974 #2396]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:22:02.892645 #2396]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:22:02.893176 #2396]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:22:02.893872 #2396]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:22:02.894439 #2396]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:22:02.894905 #2396]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:22:02.895546 #2396]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:22:02.896079 #2396]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:22:02.896519 #2396]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:22:02.897051 #2396]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:22:02.898566 #2396]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:22:02.899512 #2396]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:22:02.900533 #2396]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:22:02.901142 #2396]  INFO -- : SQLite database connection closed.
+I, [2025-11-30T20:22:02.901244 #2396]  INFO -- : Database connection closed.
+I, [2025-11-30T20:22:02.903317 #2396]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-11-30T20:22:02.904154 #2396]  INFO -- : Sending archive to kripatura1032@gmail.com
+E, [2025-11-30T20:22:05.468469 #2396] ERROR -- : Failed to send archive: 535-5.7.8 Username and Password not accepted. For more information, go to
+
+E, [2025-11-30T20:22:05.469114 #2396] ERROR -- : Failed to queue archive sending: 535-5.7.8 Username and Password not accepted. For more information, go to
+
+I, [2025-11-30T20:30:25.993312 #44544]  INFO -- : Initialized ItemCollection
+I, [2025-11-30T20:30:25.993690 #44544]  INFO -- : Directory created at: output
+I, [2025-11-30T20:30:25.994339 #44544]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-11-30T20:30:25.995001 #44544]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-11-30T20:30:25.995703 #44544]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-11-30T20:30:25.996142 #44544]  INFO -- : Running website parser...
+I, [2025-11-30T20:30:27.478017 #44544]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-11-30T20:30:27.480219 #44544]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:30:27.480469 #44544]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:30:27.919210 #44544]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-11-30T20:30:27.925156 #44544]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:30:27.925570 #44544]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:30:27.957944 #44544]  INFO -- : Processed file: olio.jpg
+I, [2025-11-30T20:30:27.978017 #44544]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-11-30T20:30:27.986952 #44544]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-11-30T20:30:27.987301 #44544]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-11-30T20:30:27.987406 #44544]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-11-30T20:30:27.989948 #44544]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:30:27.990639 #44544]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:30:27.992094 #44544]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:30:27.992591 #44544]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:30:27.991045 #44544]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:30:27.993674 #44544]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:30:27.995126 #44544]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:30:28.002423 #44544]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:30:28.003107 #44544]  INFO -- : Processed file: soumission.jpg
+I, [2025-11-30T20:30:28.003821 #44544]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:30:28.004060 #44544]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:30:28.003968 #44544]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-11-30T20:30:28.004510 #44544]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-11-30T20:30:28.006405 #44544]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:30:28.006996 #44544]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:30:28.007732 #44544]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:30:28.008067 #44544]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:30:28.008951 #44544]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:30:28.009034 #44544]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:30:28.073690 #44544]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-11-30T20:30:28.075445 #44544]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:30:28.075607 #44544]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:30:28.093050 #44544]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-11-30T20:30:28.094154 #44544]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:30:28.094573 #44544]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:30:28.107829 #44544]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-11-30T20:30:28.112879 #44544]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:30:28.108324 #44544]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-11-30T20:30:28.113041 #44544]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:30:28.111948 #44544]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-11-30T20:30:28.116607 #44544]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:30:28.117163 #44544]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:30:28.120451 #44544]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:30:28.121007 #44544]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:30:28.121432 #44544]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-11-30T20:30:28.121800 #44544]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-11-30T20:30:28.123355 #44544]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:30:28.124102 #44544]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:30:28.123761 #44544]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:30:28.124250 #44544]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:30:28.128781 #44544]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-11-30T20:30:28.129720 #44544]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:30:28.129820 #44544]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:30:28.131443 #44544]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-11-30T20:30:28.132240 #44544]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:30:28.132553 #44544]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:30:28.135881 #44544]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-11-30T20:30:28.136746 #44544]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:30:28.136860 #44544]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:30:28.136965 #44544]  INFO -- : Website parsing completed successfully.
+I, [2025-11-30T20:30:28.137140 #44544]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:30:28.138201 #44544]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:30:28.138443 #44544]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:30:28.139409 #44544]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:30:28.139507 #44544]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:30:28.142556 #44544]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:30:28.143496 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:30:28.145389 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:30:28.145982 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:30:28.147451 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:30:28.147990 #44544]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:30:28.148803 #44544]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:30:28.149725 #44544]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:30:28.150578 #44544]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:30:28.151579 #44544]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:30:28.152044 #44544]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:30:28.152512 #44544]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:30:28.152946 #44544]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:30:28.153922 #44544]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:30:28.154311 #44544]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:30:28.155057 #44544]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:30:28.155450 #44544]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:30:28.155846 #44544]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:30:28.156268 #44544]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:30:28.156763 #44544]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:30:28.157689 #44544]  INFO -- : Method run_save_to_txt not found
+I, [2025-11-30T20:30:28.158218 #44544]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:30:28.160573 #44544]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:30:28.161003 #44544]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:30:28.161900 #44544]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:30:28.162262 #44544]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:30:28.162831 #44544]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:30:28.163322 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:30:28.163703 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:30:28.164118 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:30:28.164547 #44544]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:30:28.165064 #44544]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:30:28.165553 #44544]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:30:28.165954 #44544]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:30:28.166354 #44544]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:30:28.167044 #44544]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:30:28.167413 #44544]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:30:28.167822 #44544]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:30:28.168280 #44544]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:30:28.168760 #44544]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:30:28.169608 #44544]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:30:28.170434 #44544]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:30:28.171252 #44544]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:30:28.172079 #44544]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:30:28.173054 #44544]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:30:28.173943 #44544]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:30:28.174517 #44544]  INFO -- : SQLite database connection closed.
+I, [2025-11-30T20:30:28.174570 #44544]  INFO -- : Database connection closed.
+I, [2025-11-30T20:30:28.175934 #44544]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-11-30T20:30:28.176881 #44544]  INFO -- : Sending archive to kripatura1032@gmail.com
+I, [2025-11-30T20:30:28.176985 #44544]  INFO -- : Archive successfully sent to kripatura1032@gmail.com
+I, [2025-11-30T20:30:28.177030 #44544]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-11-30T20:30:53.096138 #44856]  INFO -- : Initialized ItemCollection
+I, [2025-11-30T20:30:53.096586 #44856]  INFO -- : Directory created at: output
+I, [2025-11-30T20:30:53.097445 #44856]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-11-30T20:30:53.098305 #44856]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-11-30T20:30:53.099257 #44856]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-11-30T20:30:53.100437 #44856]  INFO -- : Running website parser...
+I, [2025-11-30T20:30:54.425577 #44856]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-11-30T20:30:54.427096 #44856]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:30:54.427369 #44856]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:30:54.932159 #44856]  INFO -- : Processed file: soumission.jpg
+I, [2025-11-30T20:30:54.933459 #44856]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:30:54.933664 #44856]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:30:54.946863 #44856]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-11-30T20:30:54.948692 #44856]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:30:54.948856 #44856]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:30:54.996627 #44856]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-11-30T20:30:54.996722 #44856]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-11-30T20:30:54.998514 #44856]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:30:54.998761 #44856]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:30:54.998919 #44856]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:30:54.999429 #44856]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:30:55.014940 #44856]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-11-30T20:30:55.015822 #44856]  INFO -- : Processed file: olio.jpg
+I, [2025-11-30T20:30:55.016010 #44856]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-11-30T20:30:55.016127 #44856]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-11-30T20:30:55.015524 #44856]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-11-30T20:30:55.018014 #44856]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:30:55.018593 #44856]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:30:55.018941 #44856]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:30:55.019689 #44856]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:30:55.020212 #44856]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:30:55.020765 #44856]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:30:55.021109 #44856]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:30:55.021275 #44856]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:30:55.021463 #44856]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:30:55.072533 #44856]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-11-30T20:30:55.073863 #44856]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:30:55.074112 #44856]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:30:55.122925 #44856]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-11-30T20:30:55.124693 #44856]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:30:55.124834 #44856]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:30:55.136541 #44856]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-11-30T20:30:55.138252 #44856]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-11-30T20:30:55.138943 #44856]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:30:55.139243 #44856]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:30:55.140523 #44856]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:30:55.140797 #44856]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:30:55.141324 #44856]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-11-30T20:30:55.142209 #44856]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:30:55.142527 #44856]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:30:55.153386 #44856]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-11-30T20:30:55.153537 #44856]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-11-30T20:30:55.155446 #44856]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:30:55.156000 #44856]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:30:55.156354 #44856]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:30:55.156710 #44856]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:30:55.167773 #44856]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-11-30T20:30:55.168340 #44856]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-11-30T20:30:55.169311 #44856]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:30:55.169872 #44856]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:30:55.170510 #44856]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:30:55.170749 #44856]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:30:55.181117 #44856]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-11-30T20:30:55.182107 #44856]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:30:55.182225 #44856]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:30:55.182320 #44856]  INFO -- : Website parsing completed successfully.
+I, [2025-11-30T20:30:55.182500 #44856]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:30:55.184070 #44856]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:30:55.184244 #44856]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:30:55.185277 #44856]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:30:55.185384 #44856]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:30:55.188874 #44856]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:30:55.189555 #44856]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:30:55.190520 #44856]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:30:55.191522 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:30:55.192424 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:30:55.193213 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:30:55.194037 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:30:55.195075 #44856]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:30:55.195900 #44856]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:30:55.197021 #44856]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:30:55.198047 #44856]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:30:55.198954 #44856]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:30:55.199783 #44856]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:30:55.200445 #44856]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:30:55.201077 #44856]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:30:55.201695 #44856]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:30:55.202767 #44856]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:30:55.203341 #44856]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:30:55.204005 #44856]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:30:55.204481 #44856]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:30:55.204821 #44856]  INFO -- : Method run_save_to_txt not found
+I, [2025-11-30T20:30:55.205169 #44856]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:30:55.205983 #44856]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:30:55.207048 #44856]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:30:55.207701 #44856]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:30:55.207908 #44856]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:30:55.209077 #44856]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:30:55.209559 #44856]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:30:55.210458 #44856]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:30:55.211373 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:30:55.212399 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:30:55.212978 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:30:55.213493 #44856]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:30:55.214109 #44856]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:30:55.214571 #44856]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:30:55.215271 #44856]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:30:55.215745 #44856]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:30:55.216165 #44856]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:30:55.216691 #44856]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:30:55.217164 #44856]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:30:55.217659 #44856]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:30:55.218054 #44856]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:30:55.218539 #44856]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:30:55.218977 #44856]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:30:55.219572 #44856]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:30:55.220941 #44856]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:30:55.221361 #44856]  INFO -- : SQLite database connection closed.
+I, [2025-11-30T20:30:55.221482 #44856]  INFO -- : Database connection closed.
+I, [2025-11-30T20:30:55.222403 #44856]  INFO -- : Archive not found, creating new one.
+E, [2025-11-30T20:30:55.223004 #44856] ERROR -- : Error during archiving: uninitialized constant Zip::File::CREATE
+E, [2025-11-30T20:30:55.223153 #44856] ERROR -- : Failed to queue archive sending: uninitialized constant Zip::File::CREATE
+I, [2025-11-30T20:31:28.964869 #9884]  INFO -- : Initialized ItemCollection
+I, [2025-11-30T20:31:28.965805 #9884]  INFO -- : Directory created at: output
+I, [2025-11-30T20:31:28.966689 #9884]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-11-30T20:31:28.967529 #9884]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-11-30T20:31:28.968093 #9884]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-11-30T20:31:28.968625 #9884]  INFO -- : Running website parser...
+I, [2025-11-30T20:31:30.502022 #9884]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-11-30T20:31:30.503619 #9884]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:31:30.504005 #9884]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:31:30.694712 #9884]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-11-30T20:31:30.695898 #9884]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:31:30.696062 #9884]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:31:30.775979 #9884]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-11-30T20:31:30.777083 #9884]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:31:30.777289 #9884]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:31:30.823320 #9884]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-11-30T20:31:30.826122 #9884]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:31:30.826234 #9884]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:31:30.842319 #9884]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-11-30T20:31:30.843785 #9884]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:31:30.843933 #9884]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:31:30.859829 #9884]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-11-30T20:31:30.861215 #9884]  INFO -- : Processed file: soumission.jpg
+I, [2025-11-30T20:31:30.860159 #9884]  INFO -- : Processed file: olio.jpg
+I, [2025-11-30T20:31:30.866564 #9884]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:31:30.867111 #9884]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:31:30.867407 #9884]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:31:30.868541 #9884]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:31:30.868785 #9884]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-11-30T20:31:30.868460 #9884]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:31:30.868984 #9884]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:31:30.869589 #9884]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:31:30.869646 #9884]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:31:30.874586 #9884]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-11-30T20:31:30.875284 #9884]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:31:30.875586 #9884]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:31:30.946750 #9884]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-11-30T20:31:30.947634 #9884]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:31:30.947816 #9884]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:31:30.966589 #9884]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-11-30T20:31:30.968500 #9884]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:31:30.968640 #9884]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:31:30.985713 #9884]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-11-30T20:31:30.986796 #9884]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:31:30.986958 #9884]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:31:30.998258 #9884]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-11-30T20:31:30.998894 #9884]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-11-30T20:31:31.000381 #9884]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:31:30.998964 #9884]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-11-30T20:31:31.000572 #9884]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:31:30.999007 #9884]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-11-30T20:31:30.999041 #9884]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-11-30T20:31:31.002856 #9884]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:31:31.003153 #9884]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:31:31.003728 #9884]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:31:31.003950 #9884]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:31:31.005000 #9884]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:31:31.005194 #9884]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:31:31.006094 #9884]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:31:31.006186 #9884]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:31:31.010314 #9884]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-11-30T20:31:31.011922 #9884]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:31:31.012126 #9884]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:31:31.016168 #9884]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-11-30T20:31:31.016749 #9884]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:31:31.016832 #9884]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:31:31.017155 #9884]  INFO -- : Website parsing completed successfully.
+I, [2025-11-30T20:31:31.017250 #9884]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:31:31.018088 #9884]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:31:31.018139 #9884]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:31:31.018625 #9884]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:31:31.018728 #9884]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:31:31.019447 #9884]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:31:31.019997 #9884]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:31:31.020424 #9884]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:31:31.021026 #9884]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:31:31.021477 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:31:31.022129 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:31:31.022543 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:31:31.023363 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:31:31.024541 #9884]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:31:31.025272 #9884]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:31:31.025627 #9884]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:31:31.026591 #9884]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:31:31.027082 #9884]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:31:31.027652 #9884]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:31:31.028163 #9884]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:31:31.028685 #9884]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:31:31.029882 #9884]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:31:31.031784 #9884]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:31:31.033438 #9884]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:31:31.035055 #9884]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:31:31.036466 #9884]  INFO -- : Method run_save_to_txt not found
+I, [2025-11-30T20:31:31.037602 #9884]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:31:31.044272 #9884]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:31:31.045382 #9884]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:31:31.046410 #9884]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:31:31.046889 #9884]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:31:31.047883 #9884]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:31:31.049212 #9884]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:31:31.050137 #9884]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:31:31.051081 #9884]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:31:31.051934 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:31:31.052867 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:31:31.053691 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:31:31.054479 #9884]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:31:31.055456 #9884]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:31:31.056538 #9884]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:31:31.057520 #9884]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:31:31.058337 #9884]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:31:31.059113 #9884]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:31:31.059999 #9884]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:31:31.060751 #9884]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:31:31.061537 #9884]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:31:31.062248 #9884]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:31:31.063082 #9884]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:31:31.063796 #9884]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:31:31.064776 #9884]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:31:31.065341 #9884]  INFO -- : SQLite database connection closed.
+I, [2025-11-30T20:31:31.065417 #9884]  INFO -- : Database connection closed.
+I, [2025-11-30T20:31:31.067034 #9884]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-11-30T20:31:31.068338 #9884]  INFO -- : Sending archive to kripatura1032@gmail.com
+I, [2025-11-30T20:31:31.068416 #9884]  INFO -- : Archive successfully sent to kripatura1032@gmail.com
+I, [2025-11-30T20:31:31.068477 #9884]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-11-30T20:31:43.812019 #41640]  INFO -- : Initialized ItemCollection
+I, [2025-11-30T20:31:43.813149 #41640]  INFO -- : Directory created at: output
+I, [2025-11-30T20:31:43.814043 #41640]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-11-30T20:31:43.814953 #41640]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-11-30T20:31:43.815924 #41640]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-11-30T20:31:43.816470 #41640]  INFO -- : Running website parser...
+I, [2025-11-30T20:31:45.951960 #41640]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-11-30T20:31:45.953138 #41640]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:31:45.953288 #41640]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-11-30T20:31:46.424921 #41640]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-11-30T20:31:46.425535 #41640]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:31:46.425922 #41640]  INFO -- : Processed file: A Light in the Attic
+I, [2025-11-30T20:31:46.474745 #41640]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-11-30T20:31:46.474890 #41640]  INFO -- : Processed file: soumission.jpg
+I, [2025-11-30T20:31:46.475657 #41640]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:31:46.475837 #41640]  INFO -- : Processed file: Sharp Objects
+I, [2025-11-30T20:31:46.476481 #41640]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:31:46.476663 #41640]  INFO -- : Processed file: Soumission
+I, [2025-11-30T20:31:46.506362 #41640]  INFO -- : Processed file: olio.jpg
+I, [2025-11-30T20:31:46.507229 #41640]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-11-30T20:31:46.507701 #41640]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:31:46.507905 #41640]  INFO -- : Processed file: Olio
+I, [2025-11-30T20:31:46.509190 #41640]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:31:46.509364 #41640]  INFO -- : Processed file: The Black Maria
+I, [2025-11-30T20:31:46.522227 #41640]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-11-30T20:31:46.522745 #41640]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-11-30T20:31:46.523963 #41640]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:31:46.524322 #41640]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-11-30T20:31:46.524233 #41640]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:31:46.524461 #41640]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-11-30T20:31:46.570283 #41640]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-11-30T20:31:46.570627 #41640]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-11-30T20:31:46.572447 #41640]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:31:46.572757 #41640]  INFO -- : Processed file: Set Me Free
+I, [2025-11-30T20:31:46.573087 #41640]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:31:46.573662 #41640]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-11-30T20:31:46.586522 #41640]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-11-30T20:31:46.586954 #41640]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-11-30T20:31:46.588559 #41640]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:31:46.588721 #41640]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-11-30T20:31:46.589765 #41640]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:31:46.589928 #41640]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-11-30T20:31:46.598343 #41640]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-11-30T20:31:46.598482 #41640]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-11-30T20:31:46.598915 #41640]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-11-30T20:31:46.599790 #41640]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:31:46.600063 #41640]  INFO -- : Processed file: The Requiem Red
+I, [2025-11-30T20:31:46.601292 #41640]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:31:46.601704 #41640]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-11-30T20:31:46.601579 #41640]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:31:46.601978 #41640]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-11-30T20:31:46.613864 #41640]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-11-30T20:31:46.614025 #41640]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-11-30T20:31:46.614929 #41640]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:31:46.615035 #41640]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-11-30T20:31:46.615324 #41640]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:31:46.615447 #41640]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-11-30T20:31:46.627606 #41640]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-11-30T20:31:46.628368 #41640]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:31:46.628487 #41640]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-11-30T20:31:46.645306 #41640]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-11-30T20:31:46.645866 #41640]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-11-30T20:31:46.646533 #41640]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:31:46.646696 #41640]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-11-30T20:31:46.647170 #41640]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:31:46.647312 #41640]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-11-30T20:31:46.647426 #41640]  INFO -- : Website parsing completed successfully.
+I, [2025-11-30T20:31:46.647508 #41640]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:31:46.648954 #41640]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:31:46.649059 #41640]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:31:46.649968 #41640]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:31:46.650049 #41640]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:31:46.650827 #41640]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:31:46.652108 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:31:46.652973 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:31:46.653750 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:31:46.654386 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:31:46.655265 #41640]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:31:46.656200 #41640]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:31:46.656946 #41640]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:31:46.657757 #41640]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:31:46.658407 #41640]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:31:46.658942 #41640]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:31:46.659574 #41640]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:31:46.660154 #41640]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:31:46.661160 #41640]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:31:46.661742 #41640]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:31:46.662257 #41640]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:31:46.662881 #41640]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:31:46.663440 #41640]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:31:46.663945 #41640]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:31:46.664410 #41640]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:31:46.664845 #41640]  INFO -- : Method run_save_to_txt not found
+I, [2025-11-30T20:31:46.665129 #41640]  INFO -- : Saving data to CSV...
+I, [2025-11-30T20:31:46.666501 #41640]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-11-30T20:31:46.666786 #41640]  INFO -- : Saving data to JSON...
+I, [2025-11-30T20:31:46.667457 #41640]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-11-30T20:31:46.667714 #41640]  INFO -- : Saving data to YAML...
+I, [2025-11-30T20:31:46.668499 #41640]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-11-30T20:31:46.669028 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-11-30T20:31:46.669523 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-11-30T20:31:46.670051 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-11-30T20:31:46.670463 #41640]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-11-30T20:31:46.671261 #41640]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-11-30T20:31:46.671772 #41640]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-11-30T20:31:46.672754 #41640]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-11-30T20:31:46.673402 #41640]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-11-30T20:31:46.673939 #41640]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-11-30T20:31:46.674583 #41640]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-11-30T20:31:46.675293 #41640]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-11-30T20:31:46.675907 #41640]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-11-30T20:31:46.676484 #41640]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-11-30T20:31:46.676914 #41640]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-11-30T20:31:46.677495 #41640]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-11-30T20:31:46.678169 #41640]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-11-30T20:31:46.678674 #41640]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-11-30T20:31:46.679097 #41640]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-11-30T20:31:46.679593 #41640]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-11-30T20:31:46.679998 #41640]  INFO -- : SQLite database connection closed.
+I, [2025-11-30T20:31:46.680054 #41640]  INFO -- : Database connection closed.
+I, [2025-11-30T20:31:46.680337 #41640]  INFO -- : Archive not found, creating new one.
+E, [2025-11-30T20:31:46.680781 #41640] ERROR -- : Error during archiving: uninitialized constant Zip::File::CREATE
+E, [2025-11-30T20:31:46.680862 #41640] ERROR -- : Failed to queue archive sending: uninitialized constant Zip::File::CREATE
+I, [2025-12-03T22:16:04.239928 #15296]  INFO -- : Initialized ItemCollection
+I, [2025-12-03T22:16:04.240261 #15296]  INFO -- : Directory created at: output
+I, [2025-12-03T22:16:04.240746 #15296]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-12-03T22:16:04.241220 #15296]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-12-03T22:16:04.241887 #15296]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-12-03T22:16:04.242346 #15296]  INFO -- : Running website parser...
+I, [2025-12-03T22:16:05.943981 #15296]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-12-03T22:16:05.945655 #15296]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:16:05.945836 #15296]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:16:06.325986 #15296]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-12-03T22:16:06.327356 #15296]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:16:06.327670 #15296]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:16:06.335870 #15296]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-12-03T22:16:06.337918 #15296]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:16:06.338077 #15296]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:16:06.357298 #15296]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-12-03T22:16:06.358033 #15296]  INFO -- : Processed file: soumission.jpg
+I, [2025-12-03T22:16:06.360165 #15296]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:16:06.360509 #15296]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:16:06.360730 #15296]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:16:06.360979 #15296]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:16:06.391082 #15296]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-12-03T22:16:06.391325 #15296]  INFO -- : Processed file: olio.jpg
+I, [2025-12-03T22:16:06.393252 #15296]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:16:06.393847 #15296]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:16:06.394109 #15296]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:16:06.394433 #15296]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:16:06.405941 #15296]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-12-03T22:16:06.406677 #15296]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-12-03T22:16:06.408624 #15296]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:16:06.409029 #15296]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:16:06.408803 #15296]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:16:06.409359 #15296]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:16:06.417861 #15296]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-12-03T22:16:06.418934 #15296]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:16:06.419030 #15296]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:16:06.449959 #15296]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-12-03T22:16:06.451056 #15296]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:16:06.451238 #15296]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:16:06.482097 #15296]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-12-03T22:16:06.482330 #15296]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-12-03T22:16:06.483841 #15296]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:16:06.484526 #15296]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:16:06.484151 #15296]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:16:06.484776 #15296]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:16:06.532229 #15296]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-12-03T22:16:06.533039 #15296]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-12-03T22:16:06.533443 #15296]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-12-03T22:16:06.533558 #15296]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-12-03T22:16:06.533882 #15296]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:16:06.534111 #15296]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:16:06.536526 #15296]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:16:06.537339 #15296]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:16:06.537546 #15296]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:16:06.538025 #15296]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:16:06.537854 #15296]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:16:06.538508 #15296]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:16:06.545110 #15296]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-12-03T22:16:06.546051 #15296]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:16:06.546161 #15296]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:16:06.547868 #15296]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-12-03T22:16:06.549158 #15296]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:16:06.549359 #15296]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:16:06.551535 #15296]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-12-03T22:16:06.552663 #15296]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:16:06.552842 #15296]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:16:06.552948 #15296]  INFO -- : Website parsing completed successfully.
+I, [2025-12-03T22:16:06.553093 #15296]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:16:06.554869 #15296]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:16:06.555032 #15296]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:16:06.556780 #15296]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:16:06.556908 #15296]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:16:06.558734 #15296]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:16:06.559786 #15296]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:16:06.560824 #15296]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:16:06.561737 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:16:06.562755 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:16:06.563690 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:16:06.565087 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:16:06.565947 #15296]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:16:06.566838 #15296]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:16:06.567686 #15296]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:16:06.568327 #15296]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:16:06.568974 #15296]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:16:06.570096 #15296]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:16:06.572384 #15296]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:16:06.573951 #15296]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:16:06.587664 #15296]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:16:06.588573 #15296]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:16:06.589122 #15296]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:16:06.589693 #15296]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:16:06.590563 #15296]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:16:06.591361 #15296]  INFO -- : Method run_save_to_txt not found
+I, [2025-12-03T22:16:06.592351 #15296]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:16:06.593881 #15296]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:16:06.594512 #15296]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:16:06.595073 #15296]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:16:06.595390 #15296]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:16:06.596070 #15296]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:16:06.596610 #15296]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:16:06.597521 #15296]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:16:06.598294 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:16:06.599048 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:16:06.599633 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:16:06.600368 #15296]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:16:06.601074 #15296]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:16:06.601882 #15296]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:16:06.602445 #15296]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:16:06.602926 #15296]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:16:06.603629 #15296]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:16:06.604202 #15296]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:16:06.604884 #15296]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:16:06.605398 #15296]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:16:06.606034 #15296]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:16:06.606897 #15296]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:16:06.607446 #15296]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:16:06.608416 #15296]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:16:06.609827 #15296]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:16:06.610567 #15296]  INFO -- : SQLite database connection closed.
+I, [2025-12-03T22:16:06.610880 #15296]  INFO -- : Database connection closed.
+I, [2025-12-03T22:16:06.612086 #15296]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:16:06.612955 #15296]  INFO -- : Sending archive to kripatura1032@gmail.com
+I, [2025-12-03T22:16:06.613009 #15296]  INFO -- : Archive successfully sent to kripatura1032@gmail.com
+I, [2025-12-03T22:16:06.613054 #15296]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:23:53.766185 #11340]  INFO -- : Initialized ItemCollection
+I, [2025-12-03T22:23:53.766418 #11340]  INFO -- : Directory created at: output
+I, [2025-12-03T22:23:53.766797 #11340]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-12-03T22:23:53.767218 #11340]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-12-03T22:23:53.767817 #11340]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-12-03T22:23:53.769389 #11340]  INFO -- : Running website parser...
+I, [2025-12-03T22:23:55.242052 #11340]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-12-03T22:23:55.243079 #11340]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:23:55.243599 #11340]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:23:55.690555 #11340]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-12-03T22:23:55.691952 #11340]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:23:55.692098 #11340]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:23:55.704818 #11340]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-12-03T22:23:55.706353 #11340]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-12-03T22:23:55.707518 #11340]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:23:55.707872 #11340]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:23:55.708446 #11340]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:23:55.708588 #11340]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:23:55.719947 #11340]  INFO -- : Processed file: soumission.jpg
+I, [2025-12-03T22:23:55.721066 #11340]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:23:55.721242 #11340]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:23:55.735452 #11340]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-12-03T22:23:55.735753 #11340]  INFO -- : Processed file: olio.jpg
+I, [2025-12-03T22:23:55.737514 #11340]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:23:55.737838 #11340]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:23:55.737679 #11340]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:23:55.737986 #11340]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:23:55.751976 #11340]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-12-03T22:23:55.753662 #11340]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:23:55.753864 #11340]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:23:55.779229 #11340]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-12-03T22:23:55.780565 #11340]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:23:55.780745 #11340]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:23:55.825846 #11340]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-12-03T22:23:55.826486 #11340]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-12-03T22:23:55.827489 #11340]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:23:55.827752 #11340]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:23:55.828163 #11340]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:23:55.828405 #11340]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:23:55.842256 #11340]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-12-03T22:23:55.843759 #11340]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:23:55.843940 #11340]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:23:55.858591 #11340]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-12-03T22:23:55.859183 #11340]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-12-03T22:23:55.860596 #11340]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:23:55.860848 #11340]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:23:55.860978 #11340]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:23:55.861161 #11340]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:23:55.875321 #11340]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-12-03T22:23:55.875773 #11340]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-12-03T22:23:55.875938 #11340]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-12-03T22:23:55.876116 #11340]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-12-03T22:23:55.878271 #11340]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:23:55.878716 #11340]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:23:55.879032 #11340]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:23:55.879459 #11340]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:23:55.879720 #11340]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:23:55.879811 #11340]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:23:55.880006 #11340]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:23:55.880201 #11340]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:23:55.891653 #11340]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-12-03T22:23:55.891861 #11340]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-12-03T22:23:55.893236 #11340]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:23:55.893414 #11340]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:23:55.893518 #11340]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:23:55.894120 #11340]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:23:55.894279 #11340]  INFO -- : Website parsing completed successfully.
+I, [2025-12-03T22:23:55.894470 #11340]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:23:55.895386 #11340]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:23:55.895595 #11340]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:23:55.896362 #11340]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:23:55.896467 #11340]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:23:55.899535 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:23:55.900593 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:23:55.901708 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:23:55.902655 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:23:55.903495 #11340]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:23:55.904836 #11340]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:23:55.905352 #11340]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:23:55.906888 #11340]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:23:55.907928 #11340]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:23:55.909154 #11340]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:23:55.909921 #11340]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:23:55.910747 #11340]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:23:55.911698 #11340]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:23:55.912558 #11340]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:23:55.913320 #11340]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:23:55.914015 #11340]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:23:55.914761 #11340]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:23:55.915416 #11340]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:23:55.916183 #11340]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:23:55.917036 #11340]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:23:55.917520 #11340]  INFO -- : Method run_save_to_txt not found
+I, [2025-12-03T22:23:55.917844 #11340]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:23:55.918656 #11340]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:23:55.918982 #11340]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:23:55.919657 #11340]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:23:55.920052 #11340]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:23:55.920623 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:23:55.921094 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:23:55.921628 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:23:55.922052 #11340]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:23:55.923397 #11340]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:23:55.924040 #11340]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:23:55.924753 #11340]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:23:55.925395 #11340]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:23:55.925855 #11340]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:23:55.926676 #11340]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:23:55.927113 #11340]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:23:55.927499 #11340]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:23:55.928340 #11340]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:23:55.928816 #11340]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:23:55.929383 #11340]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:23:55.930015 #11340]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:23:55.930433 #11340]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:23:55.931007 #11340]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:23:55.931528 #11340]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:23:55.932037 #11340]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:23:55.932777 #11340]  INFO -- : SQLite database connection closed.
+I, [2025-12-03T22:23:55.932838 #11340]  INFO -- : Database connection closed.
+I, [2025-12-03T22:23:55.933773 #11340]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:23:55.934492 #11340]  INFO -- : Sending archive to kripatura1032@gmail.com
+I, [2025-12-03T22:23:55.934565 #11340]  INFO -- : Archive successfully sent to kripatura1032@gmail.com
+I, [2025-12-03T22:23:55.934702 #11340]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:26:14.099335 #19480]  INFO -- : Initialized ItemCollection
+I, [2025-12-03T22:26:14.099822 #19480]  INFO -- : Directory created at: output
+I, [2025-12-03T22:26:14.100685 #19480]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-12-03T22:26:14.101705 #19480]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-12-03T22:26:14.102671 #19480]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-12-03T22:26:14.103186 #19480]  INFO -- : Running website parser...
+I, [2025-12-03T22:26:15.506957 #19480]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-12-03T22:26:15.508218 #19480]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:26:15.508425 #19480]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:26:15.966341 #19480]  INFO -- : Processed file: soumission.jpg
+I, [2025-12-03T22:26:15.967472 #19480]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-12-03T22:26:15.969411 #19480]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-12-03T22:26:15.971348 #19480]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:26:15.971662 #19480]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:26:15.972706 #19480]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:26:15.972919 #19480]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:26:15.973628 #19480]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:26:15.973751 #19480]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:26:15.994250 #19480]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-12-03T22:26:15.993348 #19480]  INFO -- : Processed file: olio.jpg
+I, [2025-12-03T22:26:15.997278 #19480]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-12-03T22:26:15.999770 #19480]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:26:16.000282 #19480]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:26:16.000098 #19480]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:26:16.000897 #19480]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:26:16.001168 #19480]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:26:16.001033 #19480]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:26:16.053960 #19480]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-12-03T22:26:16.055231 #19480]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:26:16.055382 #19480]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:26:16.069109 #19480]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-12-03T22:26:16.069624 #19480]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-12-03T22:26:16.071488 #19480]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:26:16.072083 #19480]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:26:16.072822 #19480]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:26:16.073177 #19480]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:26:16.103874 #19480]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-12-03T22:26:16.106183 #19480]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:26:16.105059 #19480]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-12-03T22:26:16.106482 #19480]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:26:16.107846 #19480]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:26:16.107985 #19480]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:26:16.120741 #19480]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-12-03T22:26:16.118462 #19480]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-12-03T22:26:16.123907 #19480]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-12-03T22:26:16.125318 #19480]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-12-03T22:26:16.124942 #19480]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-12-03T22:26:16.128445 #19480]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-12-03T22:26:16.128735 #19480]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:26:16.130133 #19480]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:26:16.132535 #19480]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:26:16.131082 #19480]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:26:16.133790 #19480]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-12-03T22:26:16.134669 #19480]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:26:16.133383 #19480]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:26:16.135219 #19480]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:26:16.134870 #19480]  INFO -- : Processed file: sharp_objects.jpg
+our Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:26:16.136227 #19480]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:26:16.135492 #19480]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:26:16.136156 #19480]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:26:16.137098 #19480]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:26:16.137619 #19480]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:26:16.137816 #19480]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:26:16.138205 #19480]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:26:16.138354 #19480]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:26:16.138447 #19480]  INFO -- : Website parsing completed successfully.
+I, [2025-12-03T22:26:16.138604 #19480]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:26:16.139877 #19480]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:26:16.140041 #19480]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:26:16.141434 #19480]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:26:16.141679 #19480]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:26:16.144550 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:26:16.146534 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:26:16.147254 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:26:16.147793 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:26:16.148848 #19480]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:26:16.149369 #19480]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:26:16.150076 #19480]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:26:16.150758 #19480]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:26:16.151452 #19480]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:26:16.152200 #19480]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:26:16.152907 #19480]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:26:16.153565 #19480]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:26:16.154299 #19480]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:26:16.154799 #19480]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:26:16.155265 #19480]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:26:16.156167 #19480]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:26:16.156893 #19480]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:26:16.157685 #19480]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:26:16.159303 #19480]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:26:16.159873 #19480]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:26:16.160350 #19480]  INFO -- : Method run_save_to_txt not found
+I, [2025-12-03T22:26:16.160546 #19480]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:26:16.161550 #19480]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:26:16.162041 #19480]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:26:16.162605 #19480]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:26:16.162783 #19480]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:26:16.163555 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:26:16.164179 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:26:16.165175 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:26:16.165538 #19480]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:26:16.166011 #19480]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:26:16.166923 #19480]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:26:16.167320 #19480]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:26:16.168002 #19480]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:26:16.168553 #19480]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:26:16.169239 #19480]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:26:16.169746 #19480]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:26:16.170317 #19480]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:26:16.171207 #19480]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:26:16.171740 #19480]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:26:16.172324 #19480]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:26:16.173074 #19480]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:26:16.173774 #19480]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:26:16.174300 #19480]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:26:16.174951 #19480]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:26:16.175582 #19480]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:26:16.176873 #19480]  INFO -- : SQLite database connection closed.
+I, [2025-12-03T22:26:16.177003 #19480]  INFO -- : Database connection closed.
+I, [2025-12-03T22:26:16.178942 #19480]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:26:16.181927 #19480]  INFO -- : Sending archive to kripatura1032@gmail.com
+I, [2025-12-03T22:26:16.182056 #19480]  INFO -- : Archive successfully sent to kripatura1032@gmail.com
+I, [2025-12-03T22:26:16.182103 #19480]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:39:17.080484 #53524]  INFO -- : Initialized ItemCollection
+I, [2025-12-03T22:39:17.080736 #53524]  INFO -- : Directory created at: output
+I, [2025-12-03T22:39:17.081136 #53524]  INFO -- : Logger initialized via LoggerManager.
+I, [2025-12-03T22:39:17.081541 #53524]  INFO -- : DatabaseConnector initialized with config file: config/database_config.yaml
+I, [2025-12-03T22:39:17.082055 #53524]  INFO -- : Connected to SQLite database at db/local_database.sqlite.
+I, [2025-12-03T22:39:17.082545 #53524]  INFO -- : Running website parser...
+I, [2025-12-03T22:39:18.555775 #53524]  INFO -- : Processed file: the_black_maria.jpg
+I, [2025-12-03T22:39:18.557423 #53524]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:39:18.557586 #53524]  INFO -- : Processed file: The Black Maria
+I, [2025-12-03T22:39:18.990583 #53524]  INFO -- : Processed file: a_light_in_the_attic.jpg
+I, [2025-12-03T22:39:18.992528 #53524]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:39:18.992693 #53524]  INFO -- : Processed file: A Light in the Attic
+I, [2025-12-03T22:39:19.026542 #53524]  INFO -- : Processed file: soumission.jpg
+I, [2025-12-03T22:39:19.029582 #53524]  INFO -- : Processed file: tipping_the_velvet.jpg
+I, [2025-12-03T22:39:19.030574 #53524]  INFO -- : Processed file: rip_it_up_and_start_again.jpg
+I, [2025-12-03T22:39:19.032197 #53524]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:39:19.032866 #53524]  INFO -- : Processed file: Soumission
+I, [2025-12-03T22:39:19.034395 #53524]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:39:19.034643 #53524]  INFO -- : Processed file: Tipping the Velvet
+I, [2025-12-03T22:39:19.035335 #53524]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:39:19.041933 #53524]  INFO -- : Processed file: Rip it Up and Start Again
+I, [2025-12-03T22:39:19.047335 #53524]  INFO -- : Processed file: the_coming_woman:_a_novel_based_on_the_life_of_the_infamous_feminist,_victoria_woodhull.jpg
+I, [2025-12-03T22:39:19.048351 #53524]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:39:19.048447 #53524]  INFO -- : Processed file: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+I, [2025-12-03T22:39:19.055584 #53524]  INFO -- : Processed file: olio.jpg
+I, [2025-12-03T22:39:19.056574 #53524]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:39:19.056903 #53524]  INFO -- : Processed file: Olio
+I, [2025-12-03T22:39:19.062914 #53524]  INFO -- : Processed file: sapiens:_a_brief_history_of_humankind.jpg
+I, [2025-12-03T22:39:19.063935 #53524]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:39:19.064362 #53524]  INFO -- : Processed file: Sapiens: A Brief History of Humankind
+I, [2025-12-03T22:39:19.147443 #53524]  INFO -- : Processed file: set_me_free.jpg
+I, [2025-12-03T22:39:19.149039 #53524]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:39:19.149204 #53524]  INFO -- : Processed file: Set Me Free
+I, [2025-12-03T22:39:19.163902 #53524]  INFO -- : Processed file: it's_only_the_himalayas.jpg
+I, [2025-12-03T22:39:19.164488 #53524]  INFO -- : Processed file: scott_pilgrim's_precious_little_life_(scott_pilgrim_#1).jpg
+I, [2025-12-03T22:39:19.166473 #53524]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:39:19.166919 #53524]  INFO -- : Processed file: It's Only the Himalayas
+I, [2025-12-03T22:39:19.168040 #53524]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:39:19.168385 #53524]  INFO -- : Processed file: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+I, [2025-12-03T22:39:19.183178 #53524]  INFO -- : Processed file: sharp_objects.jpg
+I, [2025-12-03T22:39:19.185264 #53524]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:39:19.185412 #53524]  INFO -- : Processed file: Sharp Objects
+I, [2025-12-03T22:39:19.198480 #53524]  INFO -- : Processed file: the_dirty_little_secrets_of_getting_your_dream_job.jpg
+I, [2025-12-03T22:39:19.199595 #53524]  INFO -- : Processed file: the_boys_in_the_boat:_nine_americans_and_their_epic_quest_for_gold_at_the_1936_berlin_olympics.jpg
+I, [2025-12-03T22:39:19.199120 #53524]  INFO -- : Processed file: starving_hearts_(triangular_trade_trilogy,_#1).jpg
+I, [2025-12-03T22:39:19.199018 #53524]  INFO -- : Processed file: our_band_could_be_your_life:_scenes_from_the_american_indie_underground,_1981-1991.jpg
+I, [2025-12-03T22:39:19.200063 #53524]  INFO -- : Processed file: shakespeare's_sonnets.jpg
+I, [2025-12-03T22:39:19.202039 #53524]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:39:19.202518 #53524]  INFO -- : Processed file: The Dirty Little Secrets of Getting Your Dream Job
+I, [2025-12-03T22:39:19.202638 #53524]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:39:19.200119 #53524]  INFO -- : Processed file: the_requiem_red.jpg
+I, [2025-12-03T22:39:19.204029 #53524]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:39:19.204591 #53524]  INFO -- : Processed file: Starving Hearts (Triangular Trade Trilogy, #1)
+I, [2025-12-03T22:39:19.204997 #53524]  INFO -- : Processed file: mesaerion:_the_best_science_fiction_stories_1800-1849.jpg
+I, [2025-12-03T22:39:19.204407 #53524]  INFO -- : Processed file: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+I, [2025-12-03T22:39:19.205463 #53524]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:39:19.206153 #53524]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:39:19.206424 #53524]  INFO -- : Processed file: Shakespeare's Sonnets
+I, [2025-12-03T22:39:19.206384 #53524]  INFO -- : Processed file: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+I, [2025-12-03T22:39:19.207754 #53524]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:39:19.208397 #53524]  INFO -- : Processed file: The Requiem Red
+I, [2025-12-03T22:39:19.209025 #53524]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:39:19.209387 #53524]  INFO -- : Processed file: Mesaerion: The Best Science Fiction Stories 1800-1849
+I, [2025-12-03T22:39:19.209736 #53524]  INFO -- : Processed file: libertarianism_for_beginners.jpg
+I, [2025-12-03T22:39:19.210484 #53524]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:39:19.210585 #53524]  INFO -- : Processed file: Libertarianism for Beginners
+I, [2025-12-03T22:39:19.210671 #53524]  INFO -- : Website parsing completed successfully.
+I, [2025-12-03T22:39:19.210937 #53524]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:39:19.212722 #53524]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:39:19.212810 #53524]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:39:19.213706 #53524]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:39:19.213993 #53524]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:39:19.216410 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:39:19.217566 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:39:19.218576 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:39:19.219421 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:39:19.220013 #53524]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:39:19.220565 #53524]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:39:19.221112 #53524]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:39:19.221511 #53524]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:39:19.222196 #53524]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:39:19.223249 #53524]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:39:19.224095 #53524]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:39:19.224782 #53524]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:39:19.225379 #53524]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:39:19.226523 #53524]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:39:19.227108 #53524]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:39:19.227769 #53524]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:39:19.228294 #53524]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:39:19.228992 #53524]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:39:19.229844 #53524]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:39:19.230357 #53524]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:39:19.230969 #53524]  INFO -- : Method run_save_to_txt not found
+I, [2025-12-03T22:39:19.231229 #53524]  INFO -- : Saving data to CSV...
+I, [2025-12-03T22:39:19.231970 #53524]  INFO -- : Saved items to CSV file: output/items.csv
+I, [2025-12-03T22:39:19.232257 #53524]  INFO -- : Saving data to JSON...
+I, [2025-12-03T22:39:19.232836 #53524]  INFO -- : Saved items to JSON file: output/items.json
+I, [2025-12-03T22:39:19.233077 #53524]  INFO -- : Saving data to YAML...
+I, [2025-12-03T22:39:19.233630 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_1.yml
+I, [2025-12-03T22:39:19.234115 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_2.yml
+I, [2025-12-03T22:39:19.234875 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_3.yml
+I, [2025-12-03T22:39:19.235673 #53524]  INFO -- : Saved item to YAML file: config/products/Poetry/item_4.yml
+I, [2025-12-03T22:39:19.236602 #53524]  INFO -- : Saved item to YAML file: config/products/Fiction/item_1.yml
+I, [2025-12-03T22:39:19.237479 #53524]  INFO -- : Saved item to YAML file: config/products/Historical Fiction/item_1.yml
+I, [2025-12-03T22:39:19.237912 #53524]  INFO -- : Saved item to YAML file: config/products/Music/item_1.yml
+I, [2025-12-03T22:39:19.238315 #53524]  INFO -- : Saved item to YAML file: config/products/Music/item_2.yml
+I, [2025-12-03T22:39:19.238818 #53524]  INFO -- : Saved item to YAML file: config/products/Default/item_1.yml
+I, [2025-12-03T22:39:19.239247 #53524]  INFO -- : Saved item to YAML file: config/products/Default/item_2.yml
+I, [2025-12-03T22:39:19.239818 #53524]  INFO -- : Saved item to YAML file: config/products/Default/item_3.yml
+I, [2025-12-03T22:39:19.241499 #53524]  INFO -- : Saved item to YAML file: config/products/History/item_1.yml
+I, [2025-12-03T22:39:19.242453 #53524]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_1.yml
+I, [2025-12-03T22:39:19.243214 #53524]  INFO -- : Saved item to YAML file: config/products/Young Adult/item_2.yml
+I, [2025-12-03T22:39:19.243782 #53524]  INFO -- : Saved item to YAML file: config/products/Travel/item_1.yml
+I, [2025-12-03T22:39:19.245513 #53524]  INFO -- : Saved item to YAML file: config/products/Sequential Art/item_1.yml
+I, [2025-12-03T22:39:19.246113 #53524]  INFO -- : Saved item to YAML file: config/products/Mystery/item_1.yml
+I, [2025-12-03T22:39:19.247444 #53524]  INFO -- : Saved item to YAML file: config/products/Business/item_1.yml
+I, [2025-12-03T22:39:19.248338 #53524]  INFO -- : Saved item to YAML file: config/products/Science Fiction/item_1.yml
+I, [2025-12-03T22:39:19.249049 #53524]  INFO -- : Saved item to YAML file: config/products/Politics/item_1.yml
+I, [2025-12-03T22:39:19.249511 #53524]  INFO -- : SQLite database connection closed.
+I, [2025-12-03T22:39:19.249576 #53524]  INFO -- : Database connection closed.
+I, [2025-12-03T22:39:19.250768 #53524]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com
+I, [2025-12-03T22:39:19.251591 #53524]  INFO -- : Sending archive to kripatura1032@gmail.com
+I, [2025-12-03T22:39:19.251678 #53524]  INFO -- : Archive successfully sent to kripatura1032@gmail.com
+I, [2025-12-03T22:39:19.251724 #53524]  INFO -- : Archive sending job successfully queued to kripatura1032@gmail.com

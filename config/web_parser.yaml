@@ -1,0 +1,9 @@
+web_scraping:
+  start_url: "https://books.toscrape.com/"
+  base_url: "https://books.toscrape.com/catalogue/"
+  product_link_selector: "section ol li article h3 a"
+  product_name_selector: "h1"
+  product_price_selector: ".price_color"
+  product_description_selector: "#product_description ~ p"
+  product_image_selector: ".thumbnail img"
+  product_category_selector: "ul.breadcrumb li:nth-child(3) a"
